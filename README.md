@@ -529,6 +529,10 @@ public class MuteButton : MonoBehaviour {
 		myImageComponent = GetComponent<Image> ();
 		gameObject.SetActive (false);
 	}
+	
+	...
+	
+}
 ```
 
 The `SetHidden()` method shows / hides the mute button and updates the game object.
@@ -561,7 +565,6 @@ The mute button invokes the `MuteClicked()` method:
 
 		agoraCanvas.MuteSelf (isMuted);
 	}
-}
 ```
 
 ### Create the LoggerBridge Class
