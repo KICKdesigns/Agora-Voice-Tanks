@@ -631,7 +631,7 @@ Select the `MuteButton` object created in the [Add Agora UI to the Scene](#add-a
 
 1. Ensure the images for the mute button are set to Sprite objects by selecting **Sprite (2D and UI)** in the **Texture Type** dropdown menu.
 
-	![MuteImageSprite.jpg](images/MuteImageSprite.jpg)
+	![muteImageSprite.jpg](images/muteImageSprite.jpg)
 
 2. Link the white muted image as the **Target Graphic**, to represent mute is inactive on first load.
 	
