@@ -360,7 +360,7 @@ mRtcEngine.OnError += (int error, string msg) => {
 
 The `OnRtcStats` event listener for `mRtcEngine` triggers when the statistics change on the Agora RTC engine.
 
-1. Set a debug log for the following stastics: `duration`,`txBytes`,`rxBytes`,`txKBitRate`,`rxKBitRate`,`txAudioKBitRate`,`rxAudioKBitRate`,`users` using `Debug.Log ()`.
+1. Set a debug log for the following statistics: `duration`, `txBytes`, `rxBytes`, `txKBitRate`, `rxKBitRate`, `txAudioKBitRate`, `rxAudioKBitRate`, `users` using `Debug.Log ()`.
 
 2. Retrieve the length of the mixing file and mixing duration using `mRtcEngine.GetAudioMixingDuration()` and `mRtcEngine.GetAudioMixingCurrentPosition()`.
 
