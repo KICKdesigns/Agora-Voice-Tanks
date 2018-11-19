@@ -1,7 +1,7 @@
 
 # Agora Tanks Demo for Unity3D
 
-This tutorial enables you to quickly get started integrating voice chat into  Unity's [TANKS! Networking game application](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213), using the Agora Gaming SDK.
+This tutorial enables you to quickly get started integrating voice chat into  Unity's [TANKS! Networking game application](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213), using the Agora Gaming SDK. 
 
 This sample app demonstrates the basic Agora SDK feature:
 
